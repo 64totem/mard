@@ -1,5 +1,5 @@
 {
-  "asa": "AKfycbzu5fFEzWXMJECcBlKogx0HPiRHz9-BQTGDleFk1xe9mpFMm5x8M_HZzzu1H_gXeWk",
+  "asa": "YOUR_APPSCRIPT_API_KEY",
   "batchSize": 5,
   "downloadMode": "go",
   "downloadPath": "downloads/",
