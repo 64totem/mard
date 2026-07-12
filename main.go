@@ -19,7 +19,7 @@ import (
 )
 
 const (
-	tag string = "[Mard]"	
+	tag string = "[Totem]"	
 	finalM3u8Name string = "target.m3u8"
 	m3u8Name string = "targetMaster.m3u8"
 )
@@ -44,7 +44,7 @@ func main() {
 	fmt.Println(tag, "Made by Totem - M.A.R.D 1.0.0 - 2026")
 
 	if len(os.Args) < 3 {
-		fmt.Println(tag, "Usage: mard <type> <service> <m3u8_url> <output_file>")
+		fmt.Println(tag, "Usage: totem <type> <service> <m3u8_url> <output_file>")
 		return
 	}
 
